@@ -1,0 +1,12 @@
+# Arquivos de projeto e solução do Visual Studio
+*.csproj
+*.sln
+
+# Pasta de configuração do Visual Studio Code
+.vscode/
+
+# Pasta de arquivos binários e artefatos de compilação
+bin/
+
+# Pasta de artefatos de compilação temporários
+obj/

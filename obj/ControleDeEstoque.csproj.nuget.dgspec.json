@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\projects\\ControleDeEstoque\\ControleDeEstoque.csproj": {}
+    "c:\\Users\\lucas\\projects\\controleDeEstoque\\ControleDeEstoque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\projects\\ControleDeEstoque\\ControleDeEstoque.csproj": {
+    "c:\\Users\\lucas\\projects\\controleDeEstoque\\ControleDeEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\projects\\ControleDeEstoque\\ControleDeEstoque.csproj",
+        "projectUniqueName": "c:\\Users\\lucas\\projects\\controleDeEstoque\\ControleDeEstoque.csproj",
         "projectName": "ControleDeEstoque",
-        "projectPath": "C:\\Users\\lucas\\projects\\ControleDeEstoque\\ControleDeEstoque.csproj",
+        "projectPath": "c:\\Users\\lucas\\projects\\controleDeEstoque\\ControleDeEstoque.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\projects\\ControleDeEstoque\\obj\\",
+        "outputPath": "c:\\Users\\lucas\\projects\\controleDeEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
